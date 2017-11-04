@@ -1,0 +1,111 @@
+
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+.carousel-control-next-icon
+{
+    background-image:  url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='gray' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+    
+
+}
+
+.carousel-control-prev-icon
+{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='gray' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E")
+}
+
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+ }
+.row{
+    margin: 0px;
+}
+.sectionLight{
+   
+margin-bottom: 130px;
+    background-color:#fff;
+    
+}
+.sectionDark{
+    
+    background-color: rgba(82, 82, 82, 0.13);
+    padding: 2em;
+    
+}
+.coolStuffWrapper{
+    margin-top: 20px;
+    
+}
+.coolStuffBtn{
+background: rgba(8, 8, 8, 0.92);
+    color:white;
+    display: block;
+    margin: auto;
+    
+}
+h5.modal-title{
+   margin: 0px 0px 0px 120px;
+}
+.modalFormWrapper{
+    padding:2rem;
+}
+.sectionLight1{
+    margin-top: 50px;
+   
+
+}
+.imgCenter{
+    display: block;
+    margin: auto;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 90%;
+}
+.footerImg{
+    padding:10px;
+}
+.footerLook{
+     border-top: 1px solid #d6d6d6;
+    margin-top:60px;
+    background-color:rgba(255, 255, 255, 0.85);
+}
+.fa-facebook-square{
+    color: #3b5998;
+}
+.fa-google-plus-square {
+    color:#c32f10;
+}
+.fa{
+    margin:10px;
+    float:right;
+    margin-top: 50px;
+    
+}
+.fa-instagram{
+    background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );  
+    background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+    color:transparent; 
+   -webkit-background-clip: text;
+   background-clip: text;
+}
+.socialWrapper{
+    margin:auto;
+    
+    
+}
+.footerDescription
+{
+    position: relative;
+    margin: auto;
+   top:55px;
+    left:-20px;
+}
